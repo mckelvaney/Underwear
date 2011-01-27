@@ -13,6 +13,12 @@
 	should comfortably support a body font size up to 15px
 	but 14px is the default.
 
+	Includes my minigrid.js which shows the guide grif when
+	you hold down 'G' to keep you vertically rhythmic.
+	
+	ps. hat-tip to @dotjay btw. His https://github.com/dotjay/hashgrid
+	is far better and came first...
+
 	- - - - - - - - - - - - - - - - - - - - - - -
 
 	This is what Elliot had to say about Starkers...
