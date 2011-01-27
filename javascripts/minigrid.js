@@ -9,7 +9,6 @@ $(document).ready(function(){
     e = $(e);
     if (e.attr('src').match(/.+minigrid.+/)) {
       url = e.attr('src').split('.js');
-      console.log(url);
       asset_server = url[0];
     }
   });
