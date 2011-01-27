@@ -4,9 +4,9 @@ $(document).ready(function(){
   
   // Find asset server
   
-  scripts = $("script");
+  scripts = $("script[src]");
   scripts.each(function(i,e){
-    e = $(e)
+    e = $(e);
     if (e.attr('src').match(/.+minigrid.+/)) {
       url = e.attr('src').split('.js');
       console.log(url);
