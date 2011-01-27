@@ -43,15 +43,62 @@ article ol {
 	
 /* Default Form Styles */
 
-input, textarea {
-  line-height: 20px;
-  margin-bottom: 0px;
+body form ol {
+  list-style: none; }
+body form ol li {
+  padding: 0;
+  margin: 0; }
+body form ol li label {
+  display: block;
+  margin-bottom: 4px; }
+body form ol li input, body form ol li textarea {
+  border: 1px solid #dddddd;
+  padding: 6px;
+  font-size: 13px;
   font-family: sans-serif;
-  font-weight: normal; }
-  
-label {
+  margin: 0 0 20px 0; }
+body form ol li input:focus, body form ol li textarea:focus {
+  border: 1px solid #aaaaaa; }
+body form ol li textarea {
+  height: 102px; }
+body form ol li button {
+  padding: 6px 9px;
+  border: 0;
+  font-size: 12px;
+  font-weight: bold;
+  background: #333333;
+  color: #eeeeee;
   cursor: pointer;
-  line-height: 20px; }
+  font-family: sans-serif; }
+body form ol li button:focus, body form ol li button:hover {
+  background: #111111; }
+  
+/* Search Form Styles */
+
+#searchform {
+	overflow: auto;
+	background: #eee;
+	position: relative;
+}
+
+#searchform label {
+	width: 0px;
+	height: 0px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+}
+
+#searchform input {
+	margin: 0;
+}
+
+#searchform li {
+	float: left;
+	margin: 5px;	
+}
+
 
 /* Comment List & Form Styles */
 
