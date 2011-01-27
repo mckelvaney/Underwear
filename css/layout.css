@@ -52,3 +52,9 @@ input, textarea {
 label {
   cursor: pointer;
   line-height: 20px; }
+
+/* Comment List & Form Styles */
+
+section.comments ol {
+	list-style: none;
+	padding-left: 0px; }
