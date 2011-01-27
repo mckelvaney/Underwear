@@ -3,7 +3,7 @@
  * The template for displaying Search Results pages.
  *
  * @package WordPress
- * @subpackage Starkers
+ * @subpackage Underwear
  * @since Starkers 3.0
  */
 
