@@ -1,0 +1,50 @@
+
+/* TYPOGRAPHY */
+/* ----------------------------------------- */
+
+body {
+  line-height: 20px;
+  font-size: 14px;
+  font-family: sans-serif; }
+  
+h2, h3, h4, h5, h6 {
+  line-height: 20px;
+  font-family: sans-serif;
+  font-weight: normal; }
+  
+h1 {
+  font-size: 40px;
+  line-height: 40px;
+  font-weight: normal;
+  margin-bottom: 20px; }
+  
+h2 {
+  font-size: 20px;
+  margin-bottom: 20px; }
+  
+h3 {
+  font-size: 20px;
+  margin-bottom: 20px; }
+  
+h4 {
+  font-size: 18px;
+  margin-bottom: 20px; }
+  
+h5 {
+  font-size: 16px;
+  margin-bottom: 10px; }
+  
+h6 {
+  font-size: 14em;
+  font-weight: bold; }
+  
+p {
+  font-size: 14px;
+  line-height: 20px;
+  margin: 0 0 20px; }
+  
+a {
+	color: #00f; }
+	
+a:hover, a:focus {
+	color: #006; }

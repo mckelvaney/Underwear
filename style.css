@@ -1,0 +1,13 @@
+/*
+Theme Name: Underwear
+Theme URI: http://stefangoodchild.com
+Description: The slightly more modest theme. It's essentially Elliot Jay Stock's 'Naked' with some underwear on. Which was in turn based on the default 'Twenty Ten'
+Version: 3.0
+Author: Stefan Goodchild
+Author URI: http://stefangoodchild.com
+Tags: underware, starkers, naked, clean, basic
+*/
+
+@import "css/reset.css";
+@import "css/typography.css";
+@import "css/layout.css";
