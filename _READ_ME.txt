@@ -1,0 +1,39 @@
+  UNDERWEAR
+  
+  - - - - - - - - - - - - - - - - - - - - - - -
+
+	Underwear is a solid foundation garment somewhat
+	like a stout pair of underpants and a sensible vest
+	sitting on top of Elliot Jay Stock's Naked theme using
+	most of my usual defaults to give me a head start when
+	making themes.
+	
+	Has a basic grid layout based on 20px. 8 Columns of
+	100px with 20px gutter. Vertical rhythm of 20px which
+	should comfortably support a body font size up to 15px
+	but 14px is the default.
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	This is what Elliot had to say about Starkers...
+
+	STARKERS
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Starkers is a bare-bones WordPress theme created 
+	to act as a starting point for the theme designer.
+
+	Free of all presentational elements and non-semantic 
+	markup, Starkers is the perfect 'blank slate' for 
+	your WordPress projects, as it's a stripped-back 
+	version of the 'Twenty Ten' theme (versions prior to 
+	3.0 were based on the now-retired 'Default' theme).
+
+	Best of all: it's free and fully GPL-licensed, 
+	so you can use it for whatever you like — even 
+	your commercial projects.
+
+	For full details, and for instructions, please see:
+	http://starkerstheme.com/
+
