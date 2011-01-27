@@ -8,7 +8,7 @@
  */
 ?>
 	<aside>
-		<ul class="xoxo">
+		<ul class="widget_list primary">
 
 <?php
 	/* When we call the dynamic_sidebar() function, it'll spit out
@@ -45,7 +45,7 @@
 	// A second sidebar for widgets, just because.
 	if ( is_active_sidebar( 'secondary-widget-area' ) ) : ?>
 
-			<ul class="xoxo">
+			<ul class="widget_list secondary">
 				<?php dynamic_sidebar( 'secondary-widget-area' ); ?>
 			</ul>
 
