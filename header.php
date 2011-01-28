@@ -22,9 +22,10 @@
 		
 			?></title>
 		<link rel="profile" href="http://gmpg.org/xfn/11" />
-		<link REL="shortcut icon" HREF="<?php bloginfo('template_directory'); ?>/images/favicon.ico">	
-		<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
-		<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
+		<link href="<?php bloginfo('template_directory'); ?>/images/favicon.ico" rel="shortcut icon">	
+		<link href='<?php bloginfo('template_directory'); ?>/images/favicon.png' rel='icon' type='image/png'>
+		<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>">
+		<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 		<!--[if lt IE 9]>
 			<script src="<?php bloginfo('template_directory'); ?>/javascripts/html5.js"></script>
 		<![endif]-->
